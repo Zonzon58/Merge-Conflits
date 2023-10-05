@@ -1,3 +1,2 @@
-"remote"
-"Local"
+""Local"
 Il est temps de faire cette quête nous sommes en quatriéme semaine.
